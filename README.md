@@ -1,4 +1,14 @@
-# Bhoomika Kushwaha 
-- 🎓 Branch: CSE(AIML)
-- 📅 Year: 1st Year
-- 🎯 Goal: I hope to improve my coding skills.
+# Hi, I'm Bhoomika Kushwaha
+
+---
+
+## About Me
+I am a 1st Year B.Tech Student in Computer Science Engineering (AIML) and passionate about learning and exploring new technologies.
+
+
+## Goals
+- Continuously improving my coding and problem-solving skills
+- Building a strong foundation in Artificial Intelligence & Machine Learning
+- Learning new tools, languages, and development practices
+
+---
