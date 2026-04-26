@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-I am a 1st Year B.Tech Student in Computer Science Engineering (AIML) and passionate about learning and exploring new technologies.
+I am a B.Tech Student in Computer Science Engineering (AIML) and passionate about learning and exploring new technologies.
 
 
 ## Goals
